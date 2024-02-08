@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ### Base de conhecimento e apoio ao time.
 
 <a href="https://ths.inf.br/" rel="nofollow"><img src="https://media.licdn.com/dms/image/C561BAQGS1oNtZVmsfw/company-background_10000/0/1588004125738/ths_tecnologia_cover?e=2147483647&v=beta&t=mdMVQ4Or-p5pEQe8s6l8OldrDhPhJeJoTdG9uw7qKFw" style="width:40%;"></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EquipeSustentacao&show_icons=true&theme=shadow_green)](https://github.com/EquipeSustentacao/github-readme-stats)
